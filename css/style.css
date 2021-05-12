@@ -1,0 +1,33 @@
+#footer {
+    background: rgb(103, 228, 120);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#footer a {
+    color: rgb(24, 20, 20);
+}
+.header img {
+    width: 60px
+}
+
+#main .carousel-inner img {
+    max-height: 70vh;
+    object-fit: cover;
+
+}
+
+#carousel {
+    position: relative;
+}
+
+#carousel .overlay{
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: rgb(231, 217, 91);
+}
